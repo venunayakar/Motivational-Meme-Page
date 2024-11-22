@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#meme-1{
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+    color: aliceblue;
+    text-transform: uppercase;
+}
+
+img{
+    margin: 20px 0px;
+    width: 100%;
+    border: 5px solid white;
+}
+
